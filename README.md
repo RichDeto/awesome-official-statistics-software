@@ -347,7 +347,8 @@ R package [danstat](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;danst
 R package [restatis](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;restatis). R API Client for the German Federal Statistical Office Database
 - <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/pystatis/version.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/pystatis/latest.svg"></img> <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;SNStatComp&#x2F;awesome-official-statistics-software&#x2F;master&#x2F;badges/pystatis/license.svg"></img>\
 Python [pystatis](https:&#x2F;&#x2F;pypi.org&#x2F;project&#x2F;pystatis&#x2F;). Python wrapper for GENESIS web service interface (API) of the Federal Statistical Office
-
+- [![CRAN/METACRAN Version](https://www.r-pkg.org/badges/version/ech)](https://CRAN.R-project.org/package=ech) ![/github/last-commit](https://img.shields.io/github/last-commit/calcita/ech)     
+R package [ech](https:&#x2F;&#x2F;cran.r-project.org&#x2F;package&#x3D;ech). Tools to download and manipulate the [ECH-INE](https://www.gub.uy/instituto-nacional-estadistica/datos-y-estadisticas/encuestas/encuesta-continua-hogares)) from Uruguay (ECH is the Spanish acronym for Continuous Household Survey)
 
 <!-- END OF GENERATED LIST -->
 
